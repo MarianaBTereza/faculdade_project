@@ -50,6 +50,10 @@ h5{
     margin-bottom: 3rem;
 }
 
+.checkbox input{
+    width: 1rem;
+}
+
 .sugestoes-comentarios{
     display: flex;
     justify-content: center;
